@@ -10,4 +10,9 @@ h1{
 .lhalf{
     width: 40%;
     float: left;
+    margin-left:5%;
+    padding-left: 2%;
+}
+.lhalf img{
+    width: 100%;
 }
